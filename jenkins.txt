@@ -1,0 +1,21 @@
+JAVA_HOME /usr/lib/jvm/java-11-openjdk-amd64
+
+MAVEN_HOME /opt/maven
+
+git_home /usr/bin
+
+JENKINS_HOME /var/lib/jenkins/
+
+
+https://github.com/poorneshks/samplejavaapp.git
+
+
+/opt/jagenthome/workspace/package/target/sampleapp.war
+
+
+
+Jenkins-Master   -    20.219.134.237
+Jenkins-Test - 20.219.132.67
+Jenkins-Prod  -  20.219.129.57
+
+
